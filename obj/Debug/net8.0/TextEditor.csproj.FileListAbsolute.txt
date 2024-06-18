@@ -1,0 +1,14 @@
+c:\Users\andrielicheva\TextEditor\bin\Debug\net8.0\TextEditor.exe
+c:\Users\andrielicheva\TextEditor\bin\Debug\net8.0\TextEditor.deps.json
+c:\Users\andrielicheva\TextEditor\bin\Debug\net8.0\TextEditor.runtimeconfig.json
+c:\Users\andrielicheva\TextEditor\bin\Debug\net8.0\TextEditor.dll
+c:\Users\andrielicheva\TextEditor\bin\Debug\net8.0\TextEditor.pdb
+c:\Users\andrielicheva\TextEditor\obj\Debug\net8.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\andrielicheva\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfoInputs.cache
+c:\Users\andrielicheva\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfo.cs
+c:\Users\andrielicheva\TextEditor\obj\Debug\net8.0\TextEditor.csproj.CoreCompileInputs.cache
+c:\Users\andrielicheva\TextEditor\obj\Debug\net8.0\TextEditor.dll
+c:\Users\andrielicheva\TextEditor\obj\Debug\net8.0\refint\TextEditor.dll
+c:\Users\andrielicheva\TextEditor\obj\Debug\net8.0\TextEditor.pdb
+c:\Users\andrielicheva\TextEditor\obj\Debug\net8.0\TextEditor.genruntimeconfig.cache
+c:\Users\andrielicheva\TextEditor\obj\Debug\net8.0\ref\TextEditor.dll
